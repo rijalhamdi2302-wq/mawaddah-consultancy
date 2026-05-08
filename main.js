@@ -86,7 +86,7 @@ function sendWhatsApp() {
   }
 
   // Build WhatsApp message
-  const waNumber = '01110544175'; // 011-1054 4175
+  const waNumber = '601110544175'; // 011-1054 4175
 
   const text = [
     '🌙 *Assalamualaikum, Mawaddah Consultancy*',
